@@ -53,12 +53,12 @@ const Navbar = () => {
             href="#"
             className=" ml-4 hidden lg:block text-2xl font-bold text-myOrange"
           >
-            UK BRAND
+            CARTIFY
           </Link>
         </div>
         <div className="navbar-center">
           <Link href="#" className=" block lg:hidden text-xl">
-            UK BRAND
+            CARTIFY
           </Link>
           <div className=" hidden lg:flex">
             <NavigationMenuDemo />
