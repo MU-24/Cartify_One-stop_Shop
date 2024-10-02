@@ -142,11 +142,11 @@ const Footer = () => {
         <div className="">
           <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
             <Link href="#" className="  text-xl">
-              UK BRAND
+              CARTIFY
             </Link>
 
             <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-              © 2020 — UK BRAND
+              © 2024 — CARTIFY
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
               <a className="text-gray-500">
